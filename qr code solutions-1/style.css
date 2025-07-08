@@ -1,0 +1,48 @@
+
+*{
+    box-sizing: border-box;
+    overflow: hidden;
+    font-family: roboto;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: #D6E1F0;
+}
+
+@media screen and (width>= 900px) {
+  .card{
+    width: 60%;
+  }
+}
+.container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.card{
+    border-radius: 15px;
+    /* width: 18rem; */
+    /* width: 20%;
+     width: clamp(250px, 60%, 500px); */
+      width: clamp(250px, 60%, 20%);
+    /* width: clamp(60%, 20%,20%); */
+    padding: 1rem;
+    background-color: white;
+    
+}
+.card-image{
+    overflow: hidden;
+}
+img{
+    object-fit: contain;
+    width: 100%;
+}
+
+.card-text  {
+  
+    text-align: center;
+}
