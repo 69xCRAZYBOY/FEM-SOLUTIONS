@@ -12,3 +12,8 @@
 
  Q. What specific area of my project will i like help with?
  -> I am dumb so i cant properly names div and some times i misplace things so i will love if someone reviews my code and contacts me to help with it. 
+
+
+  preview image:-
+<img width="1374" height="682" alt="Screenshot From 2025-07-16 21-54-46" src="https://github.com/user-attachments/assets/aa3fcba9-d325-4f5b-bed6-064be61017f1" />
+
